@@ -45,9 +45,9 @@ Recruiters and companies look for **impact-driven analysts** — that’s exactl
 
 ## 📈 Core Strengths  
 ✔️ Transform complex datasets into clear, actionable insights <br>
-✔️ Connect business KPIs with advanced analytics for decision-making
-✔️ Develop dashboards, forecasts & predictive models aligned with growth goals
-✔️ Deliver analysis with a focus on impact, efficiency & business value
+✔️ Connect business KPIs with advanced analytics for decision-making<br>
+✔️ Develop dashboards, forecasts & predictive models aligned with growth goals<br>
+✔️ Deliver analysis with a focus on impact, efficiency & business value<br>
 
 ---
 
