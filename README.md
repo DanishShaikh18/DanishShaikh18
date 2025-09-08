@@ -43,11 +43,11 @@ Recruiters and companies look for **impact-driven analysts** — that’s exactl
 
 ---
 
-## 📈 What I Bring to the Table  
-✔️ Translate **raw datasets into executive-level insights**  
-✔️ Blend **business KPIs with technical analytics**  
-✔️ Build **dashboards, forecasts, and predictive models** that impact revenue  
-✔️ Always focused on **business outcomes, not just numbers**  
+## 📈 Core Strengths  
+- ✔️ Transform complex datasets into clear, actionable insights
+- ✔️ Connect business KPIs with advanced analytics for decision-making
+- ✔️ Develop dashboards, forecasts & predictive models aligned with growth goals
+- ✔️ Deliver analysis with a focus on impact, efficiency & business value
 
 ---
 
