@@ -3,7 +3,7 @@
 🚀 **Analytics Professional | Turning Data into Business Outcomes**  
 <br>
 I specialize in **SQL, Python, Power BI & Forecasting**, building end-to-end solutions that transform raw data into growth strategies.  
-Recruiters and companies look for **impact-driven analysts** — that’s exactly who I am.  
+Recruiters and companies look for **impact-driven analysts** — that’s exactly who **I am**.  
 
 ---
 
@@ -20,7 +20,7 @@ Recruiters and companies look for **impact-driven analysts** — that’s exactl
 
 ## 📊 Featured Projects  
 
-### ⚡ [QuickCommerce Intelligence Suite](https://github.com/DanishShaikh18/QuickCommerce-Analytics-Suite)  
+### ⚡ [QuickCommerce Intelligence Suite](https://github.com/DanishShaikh18/QuickCommerce-Intelligence-Suite)
 `End-to-end analytics for Blinkit, Swiggy, JioMart — 100k+ orders analyzed`  
 - Delivery intelligence (SLA breaches, delay analysis)  
 - Customer churn prediction & demand forecasting  
@@ -28,7 +28,7 @@ Recruiters and companies look for **impact-driven analysts** — that’s exactl
 
 ---
 
-### 🧠 [Mental Health in Students Post-COVID](https://github.com/DanishShaikh18/Mental-Health-Students-Analysis)  
+### 🧠 [Mental Health in Students Post-COVID](https://github.com/DanishShaikh18/Student-Mental-Health-Analysis)  
 `Exploratory data analysis of 16k+ students`  
 - Depression & suicidal thought patterns by age, gender, academic pressure  
 - Impact of financial stress, lifestyle, and study satisfaction  
