@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Danish Shaikh  
 
 🚀 **Analytics Professional | Turning Data into Business Outcomes**  
+<br>
 I specialize in **SQL, Python, Power BI & Forecasting**, building end-to-end solutions that transform raw data into growth strategies.  
 Recruiters and companies look for **impact-driven analysts** — that’s exactly who I am.  
 
