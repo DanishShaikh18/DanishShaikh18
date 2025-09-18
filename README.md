@@ -14,6 +14,8 @@ Recruiters and companies look for **impact-driven analysts** — that’s exactl
   <img src="https://img.shields.io/badge/PowerBI-Business%20Intelligence-yellow?logo=powerbi" />
   <img src="https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel" />
   <img src="https://img.shields.io/badge/Forecasting-ARIMA%20%7C%20Prophet-orange" />
+  <img src="https://komarev.com/ghpvc/?username=DanishShaikh18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+
 </p>
 
 ---
