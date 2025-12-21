@@ -1,8 +1,8 @@
 # Hi, I’m Danish 👋
 
-I build **practical, end-to-end systems** — where data, logic, and users actually come together.
+I build **practical, end-to-end systems** where data, logic, and users actually come together.
 
-My work focuses on **Python-based applications** that combine backend engineering, data handling, and applied AI to solve real problems — not isolated scripts or demo notebooks.
+My work focuses on **Python-based applications** that combine backend engineering, data handling, and applied AI to solve real problems not isolated scripts or demo notebooks.
 
 ---
 
@@ -23,7 +23,9 @@ I care more about **how a system behaves as a whole** than individual components
   <img src="https://img.shields.io/badge/LangChain-LLMs-green" />
   <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-lightgrey" />
   <img src="https://img.shields.io/badge/SQL-PostgreSQL-informational?logo=postgresql" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi" />
   <img src="https://img.shields.io/badge/Backend-Flask%20%7C%20APIs-black" />
+    
 </p>
 
 ---
@@ -31,18 +33,22 @@ I care more about **how a system behaves as a whole** than individual components
 ## 🚀 Selected projects
 
 ### 🧠 Klarity — AI Knowledge Assistant
-An AI-powered assistant that enables users to query documents (PDFs, images, videos) using retrieval-based techniques.  
+An AI-powered assistant that enables users to query documents (PDFs, images, text) using retrieval-based techniques.  
 Designed to prioritize **context, traceability, and real usability**.
 
+
 ### 🎯 Resume2Job
-A system that compares resumes with job descriptions and surfaces actionable gaps — answering questions like:
+A system that compares resumes with job descriptions and surfaces actionable gaps answering questions like:
 *“What should I improve for this role?”*
+
+
+### 📊 QuickCommerce Intelligence Suite
+A large-scale data analysis project exploring demand patterns, churn signals, and delivery performance using real operational data.
+
 
 ### 🛒 Gaming Gear Hub
 A product-focused web application that recommends gaming setups based on budget, performance needs, and usage patterns.
 
-### 📊 QuickCommerce Intelligence Suite
-A large-scale data analysis project exploring demand patterns, churn signals, and delivery performance using real operational data.
 
 ---
 
