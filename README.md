@@ -1,66 +1,68 @@
 # Hi, I’m Danish 👋
 
-I build **practical, end-to-end systems** where data, logic, and users actually come together.
+I build **AI-powered applications and backend systems** that turn data and models into usable products.
 
-My work focuses on **Python-based applications** that combine backend engineering, data handling, and applied AI to solve real problems not isolated scripts or demo notebooks.
-
----
-
-## 🧠 What you’ll find here
-- AI-assisted applications built with clear use cases
-- Data-driven projects using real-world datasets
-- Backend APIs that connect models, data, and interfaces
-- Product-style projects designed to be used, not just explored
-
-I care more about **how a system behaves as a whole** than individual components in isolation.
+My work focuses on **Python-based systems** that combine backend engineering, retrieval pipelines, and applied AI to build practical, end-to-end applications.
 
 ---
 
-## 🔧 Tech I work with
+## 🧠 What I build
+
+• **AI-powered applications** using LLMs and retrieval pipelines  
+• **Backend APIs and services** connecting data, models, and user interfaces  
+• **Data-driven systems** that translate raw data into usable insights  
+• **Product-style projects** designed to be used, not just demonstrated  
+
+My projects typically involve **end-to-end workflows** from data ingestion and processing to AI integration and user-facing features.
+
+---
+
+## 🔧 Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-Core-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Applied%20AI-RAG-yellow" />
-  <img src="https://img.shields.io/badge/LangChain-LLMs-green" />
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-lightgrey" />
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL-informational?logo=postgresql" />
+  <img src="https://img.shields.io/badge/Python-Primary-blue?logo=python" />
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi" />
-  <img src="https://img.shields.io/badge/Backend-Flask%20%7C%20APIs-black" />
-    
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-informational?logo=postgresql" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Pipelines-yellow" />
+  <img src="https://img.shields.io/badge/LLMs-AI%20Applications-green" />
+  <img src="https://img.shields.io/badge/Vector%20DB-Semantic%20Search-lightgrey" />
 </p>
 
 ---
 
-## 🚀 Selected projects
+# 🚀 Selected Projects
 
 ### 🧠 Klarity — AI Knowledge Assistant
-An AI-powered assistant that enables users to query documents (PDFs, images, text) using retrieval-based techniques.  
-Designed to prioritize **context, traceability, and real usability**.
+AI-powered document interaction system that allows users to query PDFs/Docx using natural language.
 
-
-### 🎯 Resume2Job
-A system that compares resumes with job descriptions and surfaces actionable gaps answering questions like:
-*“What should I improve for this role?”*
-
-
-### 📊 QuickCommerce Intelligence Suite
-A large-scale data analysis project exploring demand patterns, churn signals, and delivery performance using real operational data.
-
-
-### 🛒 Gaming Gear Hub
-A product-focused web application that recommends gaming setups based on budget, performance needs, and usage patterns.
-
+• Retrieval-Augmented Generation (RAG) pipeline  
+• Qdrant vector database for semantic search  
+• FastAPI backend + React frontend  
+• LLM responses grounded strictly in document context
 
 ---
 
-## 💡 How I approach problems
-- Prefer **simple systems that can evolve**
-- Avoid unnecessary abstraction
-- Debug by understanding flow, not guessing
-- Build first, refine with intent
+### 🎯 Resume2Job — Resume & JD Intelligence
+AI system that analyzes resumes against job descriptions and generates **actionable improvement insights**.
+
+• Semantic resume-JD comparison using embeddings  
+• FAISS vector search + LLM reasoning  
+• Full-stack application with Flask + React
+
+---
+
+### 📊 QuickCommerce Intelligence Suite
+Large-scale exploratory analysis of quick-commerce delivery operations.
+
+Focus areas:
+• demand patterns  
+• delivery performance  
+• churn signals
 
 ---
 
 ## 🌐 Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/danish-shaikh-b6442a212/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
@@ -73,4 +75,4 @@ A product-focused web application that recommends gaming setups based on budget,
 ---
 
 If you're reviewing this profile professionally,  
-**Klarity** and **Resume2Job** are good places to start.
+**Klarity** and **Resume2Job** are the best places to start.
