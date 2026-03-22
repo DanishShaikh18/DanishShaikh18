@@ -75,4 +75,4 @@ Focus areas:
 ---
 
 If you're reviewing this profile professionally,  
-**Klarity** and **Resume2Job** are the best places to start.
+**Klarity** and **Resume2Job** are the one of best places to start.
