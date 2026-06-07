@@ -12,7 +12,6 @@ I am also actively expanding my cloud skills currently learning how to container
 - **Multi-Agent Workflows:** Using LangGraph to experiment with multi-step reasoning pipelines that route queries logically.
 - **Backend Services:** Developing FastAPI backends to serve AI models and manage data flow.
 - **Cloud Exploration:** Progressively learning GCP, Terraform, Github Actions and Kubernetes to understand how AI applications are hosted and scaled in the real world.
-- **LLM Evaluation:** Using LLM-as-a-judge frameworks to test response quality and measure hallucination risks.
 
 ---
 
@@ -20,6 +19,7 @@ I am also actively expanding my cloud skills currently learning how to container
 
 ### AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
