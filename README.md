@@ -1,17 +1,18 @@
 # Hi, I'm Danish 👋
 
-I build AI-integrated applications and serverless backend systems. My core focus is orchestrating LLMs through multi-agent workflows, designing semantic retrieval pipelines (RAG), and developing LLM-as-a-judge evaluation frameworks.
+I build AI-powered applications and backend systems that turn data and models into usable products. While my core technical focus lies in applied AI—designing semantic retrieval pipelines (RAG), orchestrating multi-agent LLM workflows, and building evaluation frameworks—I engineer the entire stack around them. 
 
-To support these applications, I am progressively integrating cloud-native infrastructure—spanning GCP, containerization, and automated CI/CD—to deploy scalable, end-to-end solutions.
+From analyzing large-scale operational data to provisioning the cloud-native backends (GCP, containerization, CI/CD) that serve these models, I focus on deploying end-to-end, scalable solutions.
 
 ---
 
 ## ⚙️ What I Build
 
-- **Semantic Retrieval (RAG):** Document ingestion, chunking, vector embeddings, and context-grounded generation.
-- **Multi-Agent Orchestration:** Building stateful, multi-step LLM reasoning pipelines using LangGraph.
-- **Evaluation Frameworks:** Structuring automated scoring for generated responses beyond exact-text matching.
-- **Backend & Cloud:** Containerizing FastAPI services and provisioning GCP infrastructure for deployment.
+- **Applied AI & Semantic Retrieval (RAG):** Designing document ingestion pipelines, vector search ecosystems, and context-grounded generation for intelligent assistants.
+- **Multi-Agent Orchestration:** Building stateful, multi-step LLM reasoning workflows using LangGraph to solve complex, multi-layered queries.
+- **Backend Architecture:** Architecting robust, serverless APIs (FastAPI, PostGIS, Redis) to seamlessly connect AI models, databases, and user interfaces.
+- **Data Intelligence & Analytics:** Translating raw operational data into actionable insights through exploratory analysis, feature extraction, and trend forecasting.
+- **Evaluation Frameworks:** Structuring automated LLM-as-a-judge scoring to rigorously test AI outputs beyond simple exact-text matching.
 
 ---
 
